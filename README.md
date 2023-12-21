@@ -1,3 +1,3 @@
-# module_5
+# Pymaceuticals
 
 UCB M5
